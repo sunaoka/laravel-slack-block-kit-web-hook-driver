@@ -17,10 +17,10 @@
         "monolog/monolog": "^3.0"
     },
     "require-dev": {
-        "larastan/larastan": "^2.9.6",
+        "larastan/larastan": "^2.9.6 || ^3.0.2",
         "laravel/pint": "^1.6",
         "mockery/mockery": "^1.6",
-        "phpstan/phpstan-mockery": "^1.1",
+        "phpstan/phpstan-mockery": "^1.1 || ^2.0",
         "phpunit/phpunit": "^10.5 || ^11.0"
     },
     "autoload": {
