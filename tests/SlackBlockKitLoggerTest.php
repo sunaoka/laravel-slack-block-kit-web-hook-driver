@@ -11,7 +11,7 @@ class SlackBlockKitLoggerTest extends TestCase
 {
     public function test_successful(): void
     {
-        $actual = (new Slack())->__invoke([
+        $actual = (new Slack)->__invoke([
             'url' => 'https://hooks.slack.com/services/T00000000/B00000000/XXXXXXXXXXXXXXXXXXXXXXXX',
             'level' => 'debug',
             'bubble' => true,

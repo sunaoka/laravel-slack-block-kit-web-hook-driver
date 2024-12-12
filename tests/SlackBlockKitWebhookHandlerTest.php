@@ -29,7 +29,7 @@ class SlackBlockKitWebhookHandlerTest extends TestCase
         );
 
         $actual = $handler->handle(new LogRecord(
-            datetime: new \DateTimeImmutable(),
+            datetime: new \DateTimeImmutable,
             channel: 'channel',
             level: Level::Debug,
             message: 'message',
