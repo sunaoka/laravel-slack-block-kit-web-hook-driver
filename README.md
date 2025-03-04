@@ -5,7 +5,7 @@ Laravel Log Driver for sending Block Kit messages to incoming webhooks in Slack.
 [![Latest](https://poser.pugx.org/sunaoka/laravel-slack-block-kit-web-hook-driver/v)](https://packagist.org/packages/sunaoka/laravel-slack-block-kit-web-hook-driver)
 [![License](https://poser.pugx.org/sunaoka/laravel-slack-block-kit-web-hook-driver/license)](https://packagist.org/packages/sunaoka/laravel-slack-block-kit-web-hook-driver)
 [![PHP](https://img.shields.io/packagist/php-v/sunaoka/laravel-slack-block-kit-web-hook-driver)](composer.json)
-[![Laravel](https://img.shields.io/badge/laravel-10.x%20%7C%2011.x-red)](https://laravel.com/)
+[![Laravel](https://img.shields.io/badge/laravel-%3E=%2010.x-red)](https://laravel.com/)
 [![Test](https://github.com/sunaoka/laravel-slack-block-kit-web-hook-driver/actions/workflows/test.yml/badge.svg?branch=develop)](https://github.com/sunaoka/laravel-slack-block-kit-web-hook-driver/actions/workflows/test.yml)
 [![codecov](https://codecov.io/gh/sunaoka/laravel-slack-block-kit-web-hook-driver/branch/develop/graph/badge.svg)](https://codecov.io/gh/sunaoka/laravel-slack-block-kit-web-hook-driver)
 
